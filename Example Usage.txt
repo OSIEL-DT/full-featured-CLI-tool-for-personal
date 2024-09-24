@@ -1,0 +1,5 @@
+Add a transaction: Input whether it's an income or expense, description, and amount.
+Remove a transaction: You can delete a transaction by its ID.
+Update a transaction: Modify the type, description, or amount of a specific transaction.
+List transactions: Displays all recorded transactions.
+Show balance: Calculates the current balance based on income and expenses.
